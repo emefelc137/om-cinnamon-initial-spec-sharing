@@ -1,6 +1,6 @@
 # om-cinnamon-initial-spec-sharing - obsoleted
 
-*** This page is now obsoleted by several things, including the packages being in Cooker for a bit of time, so users should go there to install.  It should also be noted that the known issue noted below is also no longer present. *** 
+*** This page is now obsoleted by several things, including the packages being in Cooker for a bit of time, so users should go there to install the up-to-date list of packages via task-cinnamon.  It should also be noted that the known issue noted below is also no longer present. *** 
 
 Sharing spec files so that things may be built locally, and tested by those on Cooker.
 
